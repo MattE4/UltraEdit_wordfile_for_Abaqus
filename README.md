@@ -11,7 +11,9 @@ Wordfile for editor UltraEdit that enables syntax highlighting, function list an
 ## Syntax Highlighting
 - Works nearly as desired
 - Regex can't be used for this
-- Workaround is okay, but not perfect for all keywords
+- Workaround for keywords is okay, but not perfect for all keywords
+- Many parameters and parameter values are included, but not all of them
+    - Not that important to me
 
 
 ## Code Folding
