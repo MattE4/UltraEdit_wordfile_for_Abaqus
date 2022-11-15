@@ -1,5 +1,5 @@
 # UltraEdit wordfile for Abaqus FEA
-Wordfile for editor UltraEdit that enables syntax highlighting, function list and code folding for the input file of Abaqus (FEA tool)
+Wordfile for editor UltraEdit that enables **syntax highlighting**, **function list** and **code folding** for the input file of Abaqus (FEA tool)
 
 ## Function List
 - Works as planned
