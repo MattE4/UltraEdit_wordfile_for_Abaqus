@@ -18,8 +18,8 @@ Wordfile for editor UltraEdit that enables syntax highlighting, function list an
 
 ## Code Folding
 - Originally I planned to fold the big blocks of *Node and *Element
-- I didn't achieved this, since te worfiles requires to define a beginning and end of the block
-    - Abaqus has no end keyword for those options
+- I didn't achieved this, since the worfile requires to define a beginning and end of the block
+    - Abaqus has no end keyword for node and element blocks
 - Now I've used to the parts and the assembly for folding
     - Uses *Part -> *End Part and *Assembly -> *End Assembly
 - Takes some seconds to identify when opening a medium to large input file for the first time
